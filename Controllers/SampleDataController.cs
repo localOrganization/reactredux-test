@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Models;
 using Newtonsoft.Json;
 
-namespace angular.Controllers
+namespace reactredux.Controllers
 {
     [Route("api/[controller]")]
     public class SampleDataController : Controller
